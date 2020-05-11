@@ -13,7 +13,7 @@ class course:
     def __write_student(self,student):
         print("Welcome " + student)
 
-c1=course("Sunil")
+c1=course("Sunil k")
 c1.add_stud("student1")
 c1.add_stud("student2")
 x=c1.stud_count()
